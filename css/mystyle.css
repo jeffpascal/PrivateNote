@@ -1,7 +1,9 @@
-.container {
-    background-color: red;
+
+
+.row-footer{
+    background: cyan;
 }
 
-body{
-    padding: 50px;
+.jumbotron{
+    margin:0;
 }
